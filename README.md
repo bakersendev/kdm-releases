@@ -5,7 +5,7 @@
 <h1 align="center">KDM</h1>
 
 <p align="center"><b>Download anything. Faster.</b><br>
-A download manager for Windows that grabs files and videos straight from your browser.</p>
+A download manager for Windows. Programs, documents, music, videos: any file, straight from your browser.</p>
 
 <p align="center">
   <a href="https://github.com/bakersendev/kdm-releases/releases/download/v0.1.0/KDM_0.1.0_x64-setup.exe">
@@ -25,7 +25,7 @@ A download manager for Windows that grabs files and videos straight from your br
 
 🌐 **Works with your browser.** Click a download link in Edge or Chrome and KDM takes over.
 
-🎬 **Save videos.** A **Download video** button appears on video players.
+🎬 **Save videos too.** A **Download video** button appears on video players.
 
 🗂️ **Stays tidy.** Files go into folders by type, and KDM warns you before you download the same file twice.
 
@@ -45,6 +45,3 @@ A download manager for Windows that grabs files and videos straight from your br
 
 Already have KDM? Install the new version over it. Your downloads and settings stay.
 
----
-
-<p align="center"><sub>KDM is in early testing.</sub></p>
