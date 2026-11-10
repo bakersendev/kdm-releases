@@ -37,7 +37,11 @@ A download manager for Windows. Programs, documents, music, videos: any file, st
 
 ### Get started in 1 minute
 
-**1. Install.** Open the file you downloaded. If Windows shows a blue box, click **More info**, then **Run anyway**. The box only means KDM is new, not that it's unsafe.
+**1. Install.**
+- **If Edge says the file "isn't commonly downloaded":** click the small arrow next to **Delete** (don't click Delete itself), then **Keep anyway**. Chrome: click **Keep**.
+- Open the file. If Windows shows a blue box, click **More info**, then **Run anyway**.
+
+These warnings only mean KDM is new, not that it's unsafe.
 
 **2. Add KDM to your browser.** Open KDM and go to **How to use**. It walks you through it in four short steps.
 
