@@ -15,6 +15,9 @@ A download manager for Windows. Programs, documents, music, videos: any file, st
   <sub>Version 0.1.0 · Windows 10 and 11 · 4 MB</sub>
 </p>
 
+<p align="center">🛡️ <b>Scanned by 70 antivirus programs: 69 found no issues</b>, including Microsoft Defender, Kaspersky, ESET, Avast and BitDefender.<br>
+<sub>One small engine (Bkav) gives a general "unknown file" alarm, which we have reported to them. <a href="https://www.virustotal.com/gui/file/eab6b1943462de764197d4b749651211c2764a2e1b1a06b81c5d3f74629b8d7a">See the full VirusTotal report</a>.</sub></p>
+
 ---
 
 ### Why KDM
