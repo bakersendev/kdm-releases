@@ -4,7 +4,9 @@
 
 A download manager for Windows. KDM speeds up downloads, picks up the files your browser starts, and downloads videos from web pages.
 
-**[Download KDM](https://github.com/bakersendev/kdm-releases/releases)**
+**[⬇️ Download KDM for Windows](https://github.com/bakersendev/kdm-releases/releases/download/v0.1.0/KDM_0.1.0_x64-setup.exe)** (version 0.1.0)
+
+Older versions: [all releases](https://github.com/bakersendev/kdm-releases/releases). Only the `.exe` is needed; GitHub adds "Source code" links to every release, which hold only this page's text.
 
 This page only hosts the installers. KDM is in early testing (pre-release).
 
