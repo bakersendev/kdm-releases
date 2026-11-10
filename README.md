@@ -45,3 +45,8 @@ A download manager for Windows. Programs, documents, music, videos: any file, st
 
 Already have KDM? Install the new version over it. Your downloads and settings stay.
 
+
+---
+
+<p align="center"><b>Something not working, or have an idea?</b><br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf7-_WJ1d7wiSOM7oWPia__JMO4qxoceQtO_z1acihao_CXKA/viewform">Tell us here</a>. It takes one minute, no account needed.</p>
